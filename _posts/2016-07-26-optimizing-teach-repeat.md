@@ -5,6 +5,8 @@ layout: post
 date: 2016-07-26 14:14:00
 ---
 
+![Optimizing teach and repeat](/public/opteachrepeat.png)
+
 In this paper we explore the properties of a topometric map created for _Teach
 and Repeat_. 
 

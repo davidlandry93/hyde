@@ -248,3 +248,17 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+
+.selfie {
+    width: 200px;
+    height: 200px;
+    border-radius: 150px;
+    background: url('/public/selfie.jpg') no-repeat;
+    background-size: 200px 200px;
+    margin: auto;
+}
+
+.post img {
+    margin: auto;
+}
