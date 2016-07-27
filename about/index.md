@@ -15,5 +15,6 @@ I also enjoy movies and [fika](http://en.wikipedia.org/wiki/Fika_(Sweden)).
 
 - Email: <davidlandry93@gmail.com>
 - Email: <david.landry.3@ulaval.ca>
+- Github: [davidlandry93](https://www.github.com/davidlandry93)
 - Twitter: [@davidlandry93]( https://twitter.com/davidlandry93 )
 - [Google scholar]( http://bit.ly/2afHaSh )

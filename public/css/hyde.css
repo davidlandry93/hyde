@@ -257,6 +257,8 @@ a.sidebar-nav-item:focus {
     background: url('/public/selfie.jpg') no-repeat;
     background-size: 200px 200px;
     margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .post img {
