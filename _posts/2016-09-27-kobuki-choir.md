@@ -53,6 +53,16 @@ the led indicates if a TCP connection is established (for debugging purposes).
 The red led indicates a note is being played, for that nice Christmas tree
 effect.
 
+
+Pretty soon in the development we wanted to write scripts to help with the
+deployment. Opening ssh connections to 14 robots is pretty tedious. The
+`deploy.sh` script was in charge of installing the appropriate software on all
+the robots. The `start_all_servers.sh` script was used to launch the python3 TCP 
+server on all the robots. These two scripts are basically simple `for` loops. We 
+used the `nohup` command to start the python scripts on the server without having
+to keep the session open.
+
+
 You can have a look at
 the [source code](https://github.com/davidlandry93/choir) if you are
 interested. I doubt many people have access to that many Kobukis, but I guess that
